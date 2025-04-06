@@ -1,0 +1,9 @@
+{
+  "name": "Farm Calving & Performance Tracker",
+  "short_name": "Farm App",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#c5ded6",
+  "icons": []
+}
